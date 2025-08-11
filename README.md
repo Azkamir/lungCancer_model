@@ -27,7 +27,8 @@ The code requires the following Python packages:
 
 Software Versions:
 Python: 3.9
-scikit-learn: 1.2.2
+scikit-learn: 1.2.1
+numpy: 1.26.4
 
 Key Steps in the Pipeline
 Data Cleaning: Dropping irrelevant columns (Patient Id) and encoding target labels.
